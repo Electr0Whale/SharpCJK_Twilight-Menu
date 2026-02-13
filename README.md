@@ -1,6 +1,6 @@
 ---
 
-# [English README](https://github.com/Electr0Whale/SharpCJK_Twilight-Menu/blob/main/README.md) | [中文说明文档](https://www.google.com/search?q=%23chinese-readme)
+# [English](https://github.com/Electr0Whale/SharpCJK_Twilight-Menu/blob/main/README.md) | [中文](https://github.com/Electr0Whale/SharpCJK_Twilight-Menu/blob/main/README_Chinese.md)
 
 ---
 
