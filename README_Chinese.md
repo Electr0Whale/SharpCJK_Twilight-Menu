@@ -2,6 +2,8 @@
 
 本项目旨在为 **TWiLight Menu++** 制作清晰、锐利且支持 CJK（中日韩）字符的点阵字体。TWiLight Menu++ 默认使用的字体在 NDS 屏幕上往往显得模糊，通过本项目提供的流程，你可以实现 1:1 像素对齐的精美显示效果。
 
+[![前后效果对比图](https://github.com/Electr0Whale/SharpCJK_Twilight-Menu/blob/main/comparison.jpg "前后效果对比图")](https://github.com/Electr0Whale/SharpCJK_Twilight-Menu/blob/main/comparison.jpg "前后效果对比图")
+
 > [!IMPORTANT]
 > 本项目中的所有 Python 脚本均由 **Gemini** 协作生成，旨在通过 AI 辅助解决复古游戏设备的汉化排版问题。
 
